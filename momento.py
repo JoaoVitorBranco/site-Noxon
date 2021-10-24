@@ -37,7 +37,7 @@ def momento_inercia(l,t,leg,n,m):
     mi_perna = m_perna*(r**2/4+l**2/3)
     mi_pe = m_pe*(comp**2+(leg - l)**2)/2 + m_pe*(l**2+(comp/2)**2)  
 
-    mi_protese = mi_perna + mi_perna
+    mi_protese = mi_perna + mi_pe
     return mi_protese
 
 """
