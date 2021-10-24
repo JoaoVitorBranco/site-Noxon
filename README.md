@@ -1,2 +1,3 @@
 # site-Noxon
-Site para cálculo do momento de inércia de uma prótese
+Projeto para Fundamento de Engenharia, curso do Instituto Mauá de Tecnologia.
+Cálculo do momento de inércia da prótese da empresa Noxon, startup que pretende criar uma prótese de Lego.
